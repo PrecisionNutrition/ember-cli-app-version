@@ -1,6 +1,6 @@
 import Ember from 'ember';
 
-const { 
+const {
   String: { classify },
   libraries
 } = Ember;
